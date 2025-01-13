@@ -1,14 +1,3 @@
+__pycache__/
 *.pyc
-*.py~
-*.py#
-
-*.pkl
-output/*
-train_log/*
-*.mp4
-
-test/
-.idea/
-*.npz
-
-*.zip
+.DS_Store
